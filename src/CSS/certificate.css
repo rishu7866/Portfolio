@@ -1,0 +1,51 @@
+.containerr{
+  border: 1px solid black;
+  padding-top: 5%;
+}
+.container_two{
+  /* border: 1px solid black; */
+  width: 80%;
+  background-color:rgb(252, 227, 195);
+  border-radius: 4%;
+  margin-bottom: 5%;
+  padding-top: 2%;
+  padding-bottom: 2%;
+  margin-left: 10%;
+  box-shadow: 0 0 50px 5px #48abe0;
+}
+.container_two:hover{
+  box-shadow: 0 0 50px 25px #48abe0;
+}
+.dispp{
+  /* padding-top: -10%; */
+  padding: 0% 2%;
+}
+.dispp>img{
+  width: 40px;
+  height: 40px;
+  border: 1px solid black;
+  border-radius: 50%;
+}
+.name{
+  padding: 0% 2%;
+}
+.th{
+  padding: 0 10%;
+}
+.quotes{
+  background-color: darkkhaki;
+  padding: 0 15%;
+  /* width: 50%; */
+}
+.four{
+  padding-left: 15%;
+}
+.four>img{
+  width: 80%;
+
+}
+.dop{
+  margin-left: 10%;
+  background-color:rgb(248, 245, 245);
+  width: 15%;
+}

@@ -1,0 +1,15 @@
+.about{
+    background-color:rgb(252, 227, 195);
+    padding: 5% 2%;
+    border: 1px solid black;
+}
+.project-heading{
+    text-align: center;
+}
+.purple{
+    color: chocolate;
+}
+
+.quote-card-view{
+    background-color:rgb(241, 225, 198);
+}
